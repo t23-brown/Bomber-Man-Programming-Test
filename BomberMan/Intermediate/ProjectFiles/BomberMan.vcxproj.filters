@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\BomberMan.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{A418D804-558A-4131-B57D-6160D76154D9}</UniqueIdentifier>
+			<UniqueIdentifier>{37B89F1A-49E6-4DCC-B1AC-F1B22547EEC1}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\BomberMan.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{0ABEE7EC-56CD-472F-B0BD-0C9C9EBA2145}</UniqueIdentifier>
+			<UniqueIdentifier>{5466EB51-18FB-46FB-B464-C38904260B24}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\BomberMan">
-			<UniqueIdentifier>{2BFF286F-F420-43A2-A144-260A560C0599}</UniqueIdentifier>
+			<UniqueIdentifier>{AE170154-ED07-4EE9-BAE7-D7B189F620E9}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\BomberMan\BomberMan.Build.cs">
 			<Filter>Source\BomberMan</Filter>

@@ -124,7 +124,7 @@
 		</ProjectConfiguration>
 	</ItemGroup>
 	<PropertyGroup Label="Globals">
-		<ProjectGuid>{91AFBC91-AF49-4D50-AB62-8EF6B105309E}</ProjectGuid>
+		<ProjectGuid>{6EF35166-AA8C-4FCC-9D34-DF777C96D453}</ProjectGuid>
 		<Keyword>MakeFileProj</Keyword>
 		<RootNamespace>BomberMan</RootNamespace>
        <PlatformToolset>v140</PlatformToolset>
