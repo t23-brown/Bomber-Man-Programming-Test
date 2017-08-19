@@ -1,0 +1,3 @@
+C:\Users\Thomas\Documents\GitHub\Bomber-Man-Programming-Test\BomberMan\Source\BomberMan\BomberMan.Build.cs
+C:\Users\Thomas\Documents\GitHub\Bomber-Man-Programming-Test\BomberMan\Source\BomberMan.Target.cs
+C:\Users\Thomas\Documents\GitHub\Bomber-Man-Programming-Test\BomberMan\Source\BomberManEditor.Target.cs
