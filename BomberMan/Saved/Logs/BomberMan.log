@@ -2065,3 +2065,185 @@ Script call stack:
 [2017.08.22-19.06.10:425][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2017.08.22-19.06.39:757][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2017.08.22-19.06.39:837][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.22-19.12.03:856][603]SourceControl: Info On branch master
+[2017.08.22-19.12.03:856][603]SourceControl: Info Your branch is ahead of 'origin/master' by 1 commit.
+[2017.08.22-19.12.03:856][603]SourceControl: Info   (use "git push" to publish your local commits)
+[2017.08.22-19.12.03:856][603]SourceControl: Info nothing to commit, working tree clean
+[2017.08.22-19.12.04:157][603]LogMetaData: Removing '/Game/Bombs/DefaultBomb.DefaultBomb:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Bombs/Default.PackageMetaData'
+[2017.08.22-19.12.04:157][603]LogMetaData: Removing '/Game/Bombs/DefaultBomb.SKEL_DefaultBomb_C' ref from Metadata '/Game/Bombs/Default.PackageMetaData'
+[2017.08.22-19.12.04:158][603]LogMetaData: Removing '/Game/Bombs/DefaultBomb.DefaultBomb_C' ref from Metadata '/Game/Bombs/Default.PackageMetaData'
+[2017.08.22-19.12.04:158][603]LogMetaData: Removing '/Game/Bombs/DefaultBomb.DefaultBomb:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Bombs/Default.PackageMetaData'
+[2017.08.22-19.12.04:158][603]LogMetaData: Removing '/Game/Bombs/DefaultBomb.DefaultBomb:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Bombs/Default.PackageMetaData'
+[2017.08.22-19.12.04:158][603]LogMetaData: Removing '/Game/Bombs/DefaultBomb.DefaultBomb:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Bombs/Default.PackageMetaData'
+[2017.08.22-19.12.04:171][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/DefaultBomb" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset" SILENT=true
+[2017.08.22-19.12.04:183][603]LogSavePackage: Save=10.60ms
+[2017.08.22-19.12.04:183][603]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBombAF9DC45843B63F08625B36B1DDECBF00.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset'
+[2017.08.22-19.12.04:187][603]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset
+[2017.08.22-23.42.24:624][979]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.058
+[2017.08.22-23.42.24:626][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bombs/DefaultBomb] ([1] browsable assets)...
+[2017.08.22-23.42.24:626][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bombs/DefaultBomb]
+[2017.08.22-23.42.24:651][979]LogSavePackage: Save=12.34ms
+[2017.08.22-23.42.24:651][979]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBomb_Auto37243241E42E4085B809EB68B167D62A2.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/Bombs/DefaultBomb_Auto3.uasset'
+[2017.08.22-23.42.24:653][979]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/Bombs/DefaultBomb_Auto3.uasset
+[2017.08.22-23.42.24:653][979]LogFileHelpers: Auto-saving content packages took 0.028
+[2017.08.23-00.23.22:866][712]BlueprintLog: New page: Compile DefaultBomb
+[2017.08.23-00.23.23:892][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/DefaultBomb" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset" SILENT=true
+[2017.08.23-00.23.23:920][789]LogSavePackage: Save=18.10ms
+[2017.08.23-00.23.23:921][789]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBomb64D8444D498C4CB8DE0EF1B9F29799A1.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset'
+[2017.08.23-00.23.23:924][789]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset
+[2017.08.23-00.25.25:906][831]BlueprintLog: New page: Compile DefaultBomb
+[2017.08.23-00.25.26:600][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/DefaultBomb" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset" SILENT=true
+[2017.08.23-00.25.26:627][867]LogSavePackage: Save=20.70ms
+[2017.08.23-00.25.26:627][867]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBomb759CD5534FD8019FB116A7A6F6D592FF.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset'
+[2017.08.23-00.25.26:629][867]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset
+[2017.08.23-00.25.34:438][449]Cmd: DELETE
+[2017.08.23-00.25.34:438][449]Cmd: ACTOR DELETE
+[2017.08.23-00.25.34:444][449]LogEditorActor: Deleted Actor: DefaultBomb_C
+[2017.08.23-00.25.34:466][449]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.08.23-00.26.08:798][287]LogSavePackage: Save=706.39ms
+[2017.08.23-00.26.08:798][287]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/TopDownExampleMap287B46F74AAA1C3A8763F3B85D897728.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
+[2017.08.23-00.26.08:802][287]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/TopDownCPP/Maps/TopDownExampleMap.umap
+[2017.08.23-00.26.08:833][287]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.825
+[2017.08.23-00.27.05:049][983]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.08.23-00.27.05:096][984]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BomberMan
+[2017.08.23-00.27.05:096][984]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.08.23-00.27.05:096][984]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2017.08.23-00.27.05:096][984]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.08.23-00.27.05:096][984]LogTemp: BranchPath = TOMS-PC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = TOMS-PC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2017.08.23-00.27.05:096][984]LogTemp: MATCHED-Provision:,File:,Cert:
+[2017.08.23-00.29.30:345][225]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.08.23-00.30.11:317][ 63]BlueprintLog: New page: Compile DefaultPlayerCharacter
+[2017.08.23-00.30.12:089][103]LogSavePackage: Save=71.90ms
+[2017.08.23-00.30.12:089][103]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultPlayerCharacterAA3EC2FC458FAF0EEA9AD4B32DC93CF2.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset'
+[2017.08.23-00.30.12:092][103]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset
+[2017.08.23-00.30.22:369][769]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.23-00.30.22:389][769]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.30.22:389][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.23-00.30.22:390][769]PIE: New page: PIE session: TopDownExampleMap (23 Aug 2017 02:30:22)
+[2017.08.23-00.30.22:390][769]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.08.23-00.30.22:453][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062404s)
+[2017.08.23-00.30.22:453][769]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.08.23-00.30.22:454][769]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2017.08.23-00.30.22:454][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.064261s)
+[2017.08.23-00.30.22:481][769]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.23-00.30.22:494][769]LogInit: FAudioDevice initialized.
+[2017.08.23-00.30.22:529][769]LogLoad: Game class is 'MyBomberManGameMode_C'
+[2017.08.23-00.30.22:539][769]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.08.23-01.30.22
+[2017.08.23-00.30.22:540][769]LogWorld: Bringing up level for play took: 0.009825
+[2017.08.23-00.30.22:546][769]PIE: Info Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.103
+[2017.08.23-00.30.22:546][769]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.30.33:389][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.30.33:450][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.32.58:850][415]BlueprintLog: New page: Compile MyPlayerController
+[2017.08.23-00.32.59:472][458]LogSavePackage: Save=57.74ms
+[2017.08.23-00.32.59:472][458]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/MyPlayerController60DE66AB470C3EEBB9158788AB92EEA2.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/MyPlayerController.uasset'
+[2017.08.23-00.32.59:476][458]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/MyPlayerController.uasset
+[2017.08.23-00.33.04:278][763]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.23-00.33.04:298][763]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.33.04:298][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.23-00.33.04:298][763]PIE: New page: PIE session: TopDownExampleMap (23 Aug 2017 02:33:04)
+[2017.08.23-00.33.04:298][763]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.08.23-00.33.04:332][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033784s)
+[2017.08.23-00.33.04:333][763]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.08.23-00.33.04:334][763]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2017.08.23-00.33.04:334][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.035871s)
+[2017.08.23-00.33.04:360][763]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.23-00.33.04:373][763]LogInit: FAudioDevice initialized.
+[2017.08.23-00.33.04:404][763]LogLoad: Game class is 'MyBomberManGameMode_C'
+[2017.08.23-00.33.04:415][763]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.08.23-01.33.04
+[2017.08.23-00.33.04:416][763]LogWorld: Bringing up level for play took: 0.011486
+[2017.08.23-00.33.04:421][763]PIE: Info Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0.022
+[2017.08.23-00.33.04:421][763]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.33.14:818][422]LogCharacterMovement: DefaultPlayerCharacter_C_0 is stuck and failed to move! Velocity: X=-399.96 Y=447.25 Z=0.00 Location: X=-3.03 Y=-213.68 Z=90.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:84.000 Actor:DefaultBomb_C_2 Component:BombMesh BoneName:None (0 other events since notify)
+[2017.08.23-00.33.18:267][644]LogCharacterMovement: DefaultPlayerCharacter_C_0 is stuck and failed to move! Velocity: X=-6.85 Y=599.96 Z=0.00 Location: X=57.13 Y=220.12 Z=90.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:84.000 Actor:DefaultBomb_C_4 Component:BombMesh BoneName:None (4 other events since notify)
+[2017.08.23-00.33.19:268][709]LogCharacterMovement: DefaultPlayerCharacter_C_0 is stuck and failed to move! Velocity: X=-0.00 Y=600.00 Z=0.00 Location: X=65.83 Y=518.82 Z=90.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:84.000 Actor:DefaultBomb_C_5 Component:BombMesh BoneName:None (31 other events since notify)
+[2017.08.23-00.33.20:275][773]LogCharacterMovement: DefaultPlayerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=600.00 Z=0.00 Location: X=65.83 Y=518.82 Z=90.15 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:84.000 Actor:DefaultBomb_C_5 Component:BombMesh BoneName:None (45 other events since notify)
+[2017.08.23-00.33.21:038][822]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.33.21:104][822]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.36.17:552][364]BlueprintLog: New page: Compile DefaultPlayerCharacter
+[2017.08.23-00.36.18:953][463]LogSavePackage: Save=77.36ms
+[2017.08.23-00.36.18:953][463]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultPlayerCharacterF293D9F94BE3694DFDBBA284AD4E5A0E.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset'
+[2017.08.23-00.36.18:956][463]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset
+[2017.08.23-00.38.13:460][865]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.038
+[2017.08.23-00.38.13:461][865]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bombs/DefaultBomb] ([1] browsable assets)...
+[2017.08.23-00.38.13:488][865]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bombs/DefaultBomb.DefaultBomb]
+[2017.08.23-00.38.13:488][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bombs/DefaultBomb]
+[2017.08.23-00.38.13:522][865]LogSavePackage: Save=21.25ms
+[2017.08.23-00.38.13:522][865]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBomb_Auto4DABFB3AE4F67DBB8F871B1884DCCA794.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/Bombs/DefaultBomb_Auto4.uasset'
+[2017.08.23-00.38.13:524][865]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/Bombs/DefaultBomb_Auto4.uasset
+[2017.08.23-00.38.13:524][865]LogFileHelpers: Auto-saving content packages took 0.064
+[2017.08.23-00.41.12:506][702]BlueprintLog: New page: Compile ExplosionActor
+[2017.08.23-00.41.13:379][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/ExplosionActor" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset" SILENT=true
+[2017.08.23-00.41.13:391][771]LogSavePackage: Save=10.18ms
+[2017.08.23-00.41.13:391][771]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/ExplosionActorC7BE8D71462DA5EA9217BCB4DD0E8FE8.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset'
+[2017.08.23-00.41.13:394][771]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset
+[2017.08.23-00.44.48:821][597]LogEditorViewport: Clicking on Actor (LMB): Floor_C (Floor190)
+[2017.08.23-00.47.40:564][594]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.08.23-00.49.40:791][205]BlueprintLog: New page: Compile DefaultBomb
+[2017.08.23-00.49.41:630][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/DefaultBomb" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset" SILENT=true
+[2017.08.23-00.49.41:682][250]LogSavePackage: Save=36.83ms
+[2017.08.23-00.49.41:682][250]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBomb3E3B91C54135F99AC3305F877F982166.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset'
+[2017.08.23-00.49.41:685][250]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset
+[2017.08.23-00.49.47:334][871]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.23-00.49.47:356][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.49.47:356][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.23-00.49.47:357][871]PIE: New page: PIE session: TopDownExampleMap (23 Aug 2017 02:49:47)
+[2017.08.23-00.49.47:357][871]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.08.23-00.49.47:397][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040612s)
+[2017.08.23-00.49.47:398][871]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.08.23-00.49.47:399][871]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2017.08.23-00.49.47:399][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.042232s)
+[2017.08.23-00.49.47:435][871]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.23-00.49.47:446][871]LogInit: FAudioDevice initialized.
+[2017.08.23-00.49.47:478][871]LogLoad: Game class is 'MyBomberManGameMode_C'
+[2017.08.23-00.49.47:487][871]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.08.23-01.49.47
+[2017.08.23-00.49.47:488][871]LogWorld: Bringing up level for play took: 0.008204
+[2017.08.23-00.49.47:492][871]PIE: Info Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 1.049
+[2017.08.23-00.49.47:492][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.50.03:986][907]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.50.04:059][907]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.50.58:107][783]BlueprintLog: New page: Compile DefaultPlayerCharacter
+[2017.08.23-00.50.58:860][834]LogSavePackage: Save=76.05ms
+[2017.08.23-00.50.58:860][834]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultPlayerCharacter78EBED5B47DAAE573E2381B96D976C08.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset'
+[2017.08.23-00.50.58:864][834]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset
+[2017.08.23-00.51.01:317][ 74]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.23-00.51.01:343][ 74]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.51.01:343][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.23-00.51.01:343][ 74]PIE: New page: PIE session: TopDownExampleMap (23 Aug 2017 02:51:01)
+[2017.08.23-00.51.01:343][ 74]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.08.23-00.51.01:374][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030647s)
+[2017.08.23-00.51.01:375][ 74]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.08.23-00.51.01:375][ 74]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2017.08.23-00.51.01:376][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.032337s)
+[2017.08.23-00.51.01:413][ 74]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.23-00.51.01:423][ 74]LogInit: FAudioDevice initialized.
+[2017.08.23-00.51.01:456][ 74]LogLoad: Game class is 'MyBomberManGameMode_C'
+[2017.08.23-00.51.01:465][ 74]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.08.23-01.51.01
+[2017.08.23-00.51.01:466][ 74]LogWorld: Bringing up level for play took: 0.009122
+[2017.08.23-00.51.01:469][ 74]PIE: Info Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 1.026
+[2017.08.23-00.51.01:470][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.51.10:454][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.51.10:521][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.52.16:396][ 15]BlueprintLog: New page: Compile DefaultBomb
+[2017.08.23-00.52.16:918][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/DefaultBomb" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset" SILENT=true
+[2017.08.23-00.52.16:963][ 53]LogSavePackage: Save=39.64ms
+[2017.08.23-00.52.16:963][ 53]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBombE27F985D42B0E10316A418A4CA3EF874.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset'
+[2017.08.23-00.52.16:967][ 53]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset
+[2017.08.23-00.52.18:484][185]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.23-00.52.18:507][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.52.18:507][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.23-00.52.18:508][185]PIE: New page: PIE session: TopDownExampleMap (23 Aug 2017 02:52:18)
+[2017.08.23-00.52.18:508][185]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.08.23-00.52.18:540][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032087s)
+[2017.08.23-00.52.18:541][185]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.08.23-00.52.18:541][185]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2017.08.23-00.52.18:542][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.033689s)
+[2017.08.23-00.52.18:575][185]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.23-00.52.18:587][185]LogInit: FAudioDevice initialized.
+[2017.08.23-00.52.18:622][185]LogLoad: Game class is 'MyBomberManGameMode_C'
+[2017.08.23-00.52.18:631][185]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.08.23-01.52.18
+[2017.08.23-00.52.18:632][185]LogWorld: Bringing up level for play took: 0.009247
+[2017.08.23-00.52.18:636][185]PIE: Info Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.193
+[2017.08.23-00.52.18:636][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.52.26:211][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-00.52.26:279][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
