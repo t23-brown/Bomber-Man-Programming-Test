@@ -788,3 +788,698 @@ Script call stack:
 [2017.08.23-11.34.16:254][336]LogSavePackage: Save=182.02ms
 [2017.08.23-11.34.16:255][336]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBombEA5D9BAF45B46851FA35EBBB1CD95E04.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset'
 [2017.08.23-11.34.16:258][336]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset
+[2017.08.23-12.01.05:580][697]LogRenderer: Reallocating scene render targets to support 1556x712 NumSamples 1 (Frame:1).
+[2017.08.23-12.01.43:500][222]BlueprintLog: New page: Compile ExplosionActor
+[2017.08.23-12.01.44:393][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/ExplosionActor" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset" SILENT=true
+[2017.08.23-12.01.44:414][280]LogSavePackage: Save=10.60ms
+[2017.08.23-12.01.44:415][280]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/ExplosionActor15DFE2044D9F8633D5D7748D62E8BF90.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset'
+[2017.08.23-12.01.44:418][280]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset
+[2017.08.23-12.02.01:223][987]LogEditorViewport: Clicking on Actor (LMB): Floor_C (Floor20)
+[2017.08.23-12.02.01:304][988]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (FloorMesh)
+[2017.08.23-12.02.05:683][446]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2017.08.23-12.02.09:861][909]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (FloorMesh)
+[2017.08.23-12.02.10:724][  0]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (FloorMesh)
+[2017.08.23-12.02.12:436][192]LogEditorViewport: Clicking on Actor (LMB): ExplosionActor_C (ExplosionActor)
+[2017.08.23-12.02.21:088][  2]LogEditorViewport: Clicking on Actor (LMB): Floor_C (Floor20)
+[2017.08.23-12.02.26:224][385]LogEditorViewport: Clicking on Actor (LMB): ExplosionActor_C (ExplosionActor)
+[2017.08.23-12.05.01:764][214]BlueprintLog: New page: Compile ExplosionActor
+[2017.08.23-12.05.02:313][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/ExplosionActor" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset" SILENT=true
+[2017.08.23-12.05.02:331][258]LogSavePackage: Save=10.35ms
+[2017.08.23-12.05.02:331][258]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/ExplosionActorA8FDABAC40D65D5F919F2F9739D6EE62.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset'
+[2017.08.23-12.05.02:334][258]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset
+[2017.08.23-12.05.17:996][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/ExplosionActor" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset" SILENT=true
+[2017.08.23-12.05.18:011][ 80]LogSavePackage: Save=9.86ms
+[2017.08.23-12.05.18:011][ 80]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/ExplosionActorD11D14C3468DB7D256ED39B17C47EB8E.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset'
+[2017.08.23-12.05.18:015][ 80]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset
+[2017.08.23-12.05.48:385][292]LogSavePackage: Save=641.31ms
+[2017.08.23-12.05.48:385][292]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/TopDownExampleMap_Auto213A1FC5C4F0DDFC843D4E498EC01275F.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/TopDownCPP/Maps/TopDownExampleMap_Auto2.umap'
+[2017.08.23-12.05.48:387][292]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/TopDownCPP/Maps/TopDownExampleMap_Auto2.umap
+[2017.08.23-12.05.48:392][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.679
+[2017.08.23-12.05.48:392][292]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.679
+[2017.08.23-12.25.05:730][137]LogEditorActor: Deleted Actor: ExplosionActor_C
+[2017.08.23-12.25.05:748][137]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.08.23-12.25.21:501][512]LogSavePackage: Save=644.59ms
+[2017.08.23-12.25.21:502][512]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/TopDownExampleMap758531444E092BFD9649D08E0817D4BA.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
+[2017.08.23-12.25.21:506][512]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/TopDownCPP/Maps/TopDownExampleMap.umap
+[2017.08.23-12.25.21:541][512]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.765
+[2017.08.23-12.25.29:958][364]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.23-12.25.29:975][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-12.25.29:975][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.23-12.25.29:975][364]PIE: New page: PIE session: TopDownExampleMap (23 Aug 2017 14:25:29)
+[2017.08.23-12.25.29:975][364]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.08.23-12.25.30:011][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035764s)
+[2017.08.23-12.25.30:012][364]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.08.23-12.25.30:012][364]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2017.08.23-12.25.30:013][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.037324s)
+[2017.08.23-12.25.30:035][364]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.23-12.25.30:048][364]LogInit: FAudioDevice initialized.
+[2017.08.23-12.25.30:080][364]LogLoad: Game class is 'MyBomberManGameMode_C'
+[2017.08.23-12.25.30:089][364]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.08.23-13.25.30
+[2017.08.23-12.25.30:090][364]LogWorld: Bringing up level for play took: 0.008591
+[2017.08.23-12.25.30:093][364]PIE: Info Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.584
+[2017.08.23-12.25.30:094][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-12.26.16:754][420]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-12.26.16:816][420]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-12.47.43:573][308]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_2:PersistentLevel.ExplosionActor_C_0.DamageBoxCollider) Not currently registered. Aborting.
+[2017.08.23-12.47.45:339][519]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_2:PersistentLevel.ExplosionActor_C_0.DamageBoxCollider) Not currently registered. Aborting.
+[2017.08.23-12.48.26:960][509]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.017
+[2017.08.23-12.48.26:962][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bombs/ExplosionActor] ([1] browsable assets)...
+[2017.08.23-12.48.26:962][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bombs/ExplosionActor]
+[2017.08.23-12.48.26:985][509]LogSavePackage: Save=10.50ms
+[2017.08.23-12.48.26:986][509]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/ExplosionActor_Auto37AEA3BCA4266F6EFDC40C0A26B0B2A60.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/Bombs/ExplosionActor_Auto3.uasset'
+[2017.08.23-12.48.26:988][509]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/Bombs/ExplosionActor_Auto3.uasset
+[2017.08.23-12.48.26:988][509]LogFileHelpers: Auto-saving content packages took 0.027
+[2017.08.23-13.06.14:217][316]BlueprintLog: New page: Compile ExplosionActor
+[2017.08.23-13.06.14:751][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/ExplosionActor" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset" SILENT=true
+[2017.08.23-13.06.14:774][347]LogSavePackage: Save=11.38ms
+[2017.08.23-13.06.14:774][347]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/ExplosionActorC34EA57B4C6EA638EDDE4CADC8471C89.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset'
+[2017.08.23-13.06.14:778][347]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset
+[2017.08.23-13.06.27:679][626]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.23-13.06.27:697][626]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.06.27:697][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.23-13.06.27:698][626]PIE: New page: PIE session: TopDownExampleMap (23 Aug 2017 15:06:27)
+[2017.08.23-13.06.27:698][626]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.08.23-13.06.27:735][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037072s)
+[2017.08.23-13.06.27:736][626]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.08.23-13.06.27:736][626]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2017.08.23-13.06.27:736][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.038677s)
+[2017.08.23-13.06.27:762][626]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.23-13.06.27:774][626]LogInit: FAudioDevice initialized.
+[2017.08.23-13.06.27:808][626]LogLoad: Game class is 'MyBomberManGameMode_C'
+[2017.08.23-13.06.27:817][626]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.08.23-14.06.27
+[2017.08.23-13.06.27:818][626]LogWorld: Bringing up level for play took: 0.008591
+[2017.08.23-13.06.27:822][626]PIE: Info Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.312
+[2017.08.23-13.06.27:822][626]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.06.38:960][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.06.39:024][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.07.38:737][318]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.033
+[2017.08.23-13.07.38:738][318]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bombs/DefaultBomb] ([1] browsable assets)...
+[2017.08.23-13.07.38:778][318]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bombs/DefaultBomb.DefaultBomb]
+[2017.08.23-13.07.38:778][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bombs/DefaultBomb]
+[2017.08.23-13.07.38:995][318]LogSavePackage: Save=200.20ms
+[2017.08.23-13.07.38:996][318]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBomb_Auto4315C114A46D1B8F55DAD22A460A69248.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/Bombs/DefaultBomb_Auto4.uasset'
+[2017.08.23-13.07.38:997][318]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/Bombs/DefaultBomb_Auto4.uasset
+[2017.08.23-13.07.38:997][318]LogFileHelpers: Auto-saving content packages took 0.260
+[2017.08.23-13.09.53:401][338]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.23-13.09.53:420][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.09.53:420][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.23-13.09.53:420][338]PIE: New page: PIE session: TopDownExampleMap (23 Aug 2017 15:09:53)
+[2017.08.23-13.09.53:420][338]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.08.23-13.09.53:459][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038577s)
+[2017.08.23-13.09.53:460][338]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.08.23-13.09.53:460][338]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2017.08.23-13.09.53:460][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.040018s)
+[2017.08.23-13.09.53:484][338]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.23-13.09.53:496][338]LogInit: FAudioDevice initialized.
+[2017.08.23-13.09.53:529][338]LogLoad: Game class is 'MyBomberManGameMode_C'
+[2017.08.23-13.09.53:539][338]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.08.23-14.09.53
+[2017.08.23-13.09.53:540][338]LogWorld: Bringing up level for play took: 0.009698
+[2017.08.23-13.09.53:544][338]PIE: Info Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.035
+[2017.08.23-13.09.53:545][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.10.02:280][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 1629
+[2017.08.23-13.10.02:280][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.10.24:037][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 2078
+[2017.08.23-13.10.24:037][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.10.34:921][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 1629
+[2017.08.23-13.10.34:921][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.10.36:216][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 2078
+[2017.08.23-13.10.36:216][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.10.38:174][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 1629
+[2017.08.23-13.10.38:174][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.10.39:564][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 2078
+[2017.08.23-13.10.39:565][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.10.40:837][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 1629
+[2017.08.23-13.10.40:837][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.10.42:538][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 2078
+[2017.08.23-13.10.42:539][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.10.44:050][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 1629
+[2017.08.23-13.10.44:051][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.10.49:030][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 2078
+[2017.08.23-13.10.49:030][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.10.51:634][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 1629
+[2017.08.23-13.10.51:634][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.11.14:560][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 2078
+[2017.08.23-13.11.14:560][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.11.32:337][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_LineTraceSingleForObjects', from offset 6213
+[2017.08.23-13.11.32:337][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.11.55:567][887]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 2665
+[2017.08.23-13.11.55:567][887]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.12.28:765][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.12.28:858][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.12.48:175][966]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.08.23-13.12.48:198][966]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BomberMan
+[2017.08.23-13.12.48:198][966]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.08.23-13.12.48:198][966]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2017.08.23-13.12.48:198][966]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.08.23-13.12.48:201][966]LogTemp: BranchPath = TOMS-PC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = TOMS-PC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2017.08.23-13.12.48:215][966]LogTemp: MATCHED-Provision:,File:,Cert:
+[2017.08.23-13.13.34:193][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/DefaultBomb" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset" SILENT=true
+[2017.08.23-13.13.34:391][714]LogSavePackage: Save=186.15ms
+[2017.08.23-13.13.34:391][714]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBombB6A1EDC54E707551BB17098569E42ABD.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset'
+[2017.08.23-13.13.34:395][714]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset
+[2017.08.23-13.14.01:203][782]BlueprintLog: New page: Compile ExplosionActor
+[2017.08.23-13.14.01:784][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/ExplosionActor" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset" SILENT=true
+[2017.08.23-13.14.01:804][829]LogSavePackage: Save=11.33ms
+[2017.08.23-13.14.01:804][829]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/ExplosionActor1EE80D4841AAD2EB7BC4F49F78D3D374.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset'
+[2017.08.23-13.14.01:807][829]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset
+[2017.08.23-13.14.03:430][980]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.23-13.14.03:449][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.14.03:450][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.23-13.14.03:450][980]PIE: New page: PIE session: TopDownExampleMap (23 Aug 2017 15:14:03)
+[2017.08.23-13.14.03:450][980]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.08.23-13.14.03:485][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034756s)
+[2017.08.23-13.14.03:485][980]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.08.23-13.14.03:486][980]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2017.08.23-13.14.03:486][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.036059s)
+[2017.08.23-13.14.03:514][980]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.23-13.14.03:525][980]LogInit: FAudioDevice initialized.
+[2017.08.23-13.14.03:560][980]LogLoad: Game class is 'MyBomberManGameMode_C'
+[2017.08.23-13.14.03:569][980]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.08.23-14.14.03
+[2017.08.23-13.14.03:570][980]LogWorld: Bringing up level for play took: 0.008935
+[2017.08.23-13.14.03:574][980]PIE: Info Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.065
+[2017.08.23-13.14.03:574][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.14.11:616][477]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 1629
+[2017.08.23-13.14.11:616][477]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.14.15:352][477]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 2665
+[2017.08.23-13.14.15:352][477]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.14.22:361][477]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_LineTraceSingleForObjects', from offset 7638
+[2017.08.23-13.14.22:361][477]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.14.25:509][477]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 593
+[2017.08.23-13.14.25:509][477]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.14.31:750][477]LogBlueprintDebug:Warning: Hit breakpoint on node 'CallFunc_LineTraceSingleForObjects', from offset 9029
+[2017.08.23-13.14.31:750][477]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.14.37:821][477]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_SpawnActorFromClass', from offset 3731
+[2017.08.23-13.14.37:821][477]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:Explode
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb
+
+[2017.08.23-13.15.06:993][ 64]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.15.07:058][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.15.33:138][248]LogEditorViewport: Clicking on Actor (LMB): DestructableWallObstacle_C (DestructableWallObstacle13)
+[2017.08.23-13.19.52:346][849]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.021
+[2017.08.23-13.19.52:347][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/DefaultPlayerCharacter] ([1] browsable assets)...
+[2017.08.23-13.19.52:360][849]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/DefaultPlayerCharacter.DefaultPlayerCharacter]
+[2017.08.23-13.19.52:360][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/DefaultPlayerCharacter]
+[2017.08.23-13.19.52:468][849]LogSavePackage: Save=97.48ms
+[2017.08.23-13.19.52:468][849]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultPlayerCharacter_Auto501F17A7447AAAA8EC699BDB77F9084CF.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/Characters/DefaultPlayerCharacter_Auto5.uasset'
+[2017.08.23-13.19.52:470][849]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/Characters/DefaultPlayerCharacter_Auto5.uasset
+[2017.08.23-13.19.52:471][849]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bombs/ExplosionActor] ([1] browsable assets)...
+[2017.08.23-13.19.52:471][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bombs/ExplosionActor]
+[2017.08.23-13.19.52:493][849]LogSavePackage: Save=13.31ms
+[2017.08.23-13.19.52:493][849]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/ExplosionActor_Auto5C5AF3A584C748A26408D789C5BF458E8.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/Bombs/ExplosionActor_Auto5.uasset'
+[2017.08.23-13.19.52:495][849]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Autosaves/Game/Bombs/ExplosionActor_Auto5.uasset
+[2017.08.23-13.19.52:495][849]LogFileHelpers: Auto-saving content packages took 0.148
+[2017.08.23-13.20.20:165][132]BlueprintLog: New page: Compile DefaultPlayerCharacter
+[2017.08.23-13.20.21:262][169]LogSavePackage: Save=100.65ms
+[2017.08.23-13.20.21:262][169]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultPlayerCharacter4E9F8510453D21DB7186B3BC2CDAF1E3.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset'
+[2017.08.23-13.20.21:265][169]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset
+[2017.08.23-13.21.17:180][755]BlueprintLog: New page: Compile DefaultBomb
+[2017.08.23-13.21.18:133][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/DefaultBomb" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset" SILENT=true
+[2017.08.23-13.21.18:327][791]LogSavePackage: Save=184.07ms
+[2017.08.23-13.21.18:328][791]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBomb3E105B4C4D2E7205D31858BA26B470EE.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset'
+[2017.08.23-13.21.18:330][791]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset
+[2017.08.23-13.21.26:637][787]BlueprintLog: New page: Compile DefaultBomb
+[2017.08.23-13.21.27:248][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/DefaultBomb" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset" SILENT=true
+[2017.08.23-13.21.27:439][833]LogSavePackage: Save=184.99ms
+[2017.08.23-13.21.27:439][833]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBomb478708BF4BCC1EA384F5C5A2949014DA.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset'
+[2017.08.23-13.21.27:442][833]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset
+[2017.08.23-13.21.49:684][486]BlueprintLog: New page: Compile ExplosionActor
+[2017.08.23-13.21.50:124][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/ExplosionActor" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset" SILENT=true
+[2017.08.23-13.21.50:146][501]LogSavePackage: Save=16.08ms
+[2017.08.23-13.21.50:146][501]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/ExplosionActor37E838144B7C5FF3B7C5D78DE0C79D90.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset'
+[2017.08.23-13.21.50:149][501]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/ExplosionActor.uasset
+[2017.08.23-13.23.26:218][575]BlueprintLog: New page: Compile DefaultBomb
+[2017.08.23-13.23.26:879][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bombs/DefaultBomb" FILE="../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset" SILENT=true
+[2017.08.23-13.23.27:086][627]LogSavePackage: Save=199.01ms
+[2017.08.23-13.23.27:086][627]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultBomb3EF0685C413489984CF1509DF271DDDF.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset'
+[2017.08.23-13.23.27:091][627]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Bombs/DefaultBomb.uasset
+[2017.08.23-13.23.51:928][241]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.23-13.23.51:948][241]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.23.51:948][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.23-13.23.51:949][241]PIE: New page: PIE session: TopDownExampleMap (23 Aug 2017 15:23:51)
+[2017.08.23-13.23.51:949][241]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.08.23-13.23.51:986][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037720s)
+[2017.08.23-13.23.51:987][241]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.08.23-13.23.51:988][241]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2017.08.23-13.23.51:988][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.039472s)
+[2017.08.23-13.23.52:013][241]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.23-13.23.52:026][241]LogInit: FAudioDevice initialized.
+[2017.08.23-13.23.52:057][241]LogLoad: Game class is 'MyBomberManGameMode_C'
+[2017.08.23-13.23.52:066][241]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.08.23-14.23.52
+[2017.08.23-13.23.52:067][241]LogWorld: Bringing up level for play took: 0.008564
+[2017.08.23-13.23.52:070][241]PIE: Info Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.561
+[2017.08.23-13.23.52:071][241]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.24.02:027][841]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.24.02:102][841]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.24.31:502][207]BlueprintLog: New page: Compile DefaultPlayerCharacter
+[2017.08.23-13.24.32:090][235]LogSavePackage: Save=100.48ms
+[2017.08.23-13.24.32:090][235]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultPlayerCharacter45468CD349D9A744FA770DA71E2D4251.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset'
+[2017.08.23-13.24.32:093][235]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset
+[2017.08.23-13.24.54:755][844]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_6:PersistentLevel.DefaultPlayerCharacter_C_0.CollisionCylinder) Not currently registered. Aborting.
+[2017.08.23-13.24.54:756][844]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_7:PersistentLevel.DefaultPlayerCharacter_C_1.CollisionCylinder) Not currently registered. Aborting.
+[2017.08.23-13.24.54:756][844]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_6:PersistentLevel.DefaultPlayerCharacter_C_1.CollisionCylinder) Not currently registered. Aborting.
+[2017.08.23-13.25.11:632][627]LogSavePackage: Save=100.64ms
+[2017.08.23-13.25.11:632][627]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultPlayerCharacter6B7FCD254AB68BA1148D4699D068815A.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset'
+[2017.08.23-13.25.11:635][627]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset
+[2017.08.23-13.25.12:348][677]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.23-13.25.12:369][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.25.12:369][677]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.08.23-13.25.12:369][677]LogPlayLevel: [PlayLevel] Compiling DefaultPlayerCharacter before play...
+[2017.08.23-13.25.12:731][677]LogPlayLevel: PlayLevel: Blueprint regeneration took 361 ms (1 blueprints)
+[2017.08.23-13.25.12:731][677]PIE: New page: PIE session: TopDownExampleMap (23 Aug 2017 15:25:12)
+[2017.08.23-13.25.12:731][677]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.08.23-13.25.12:770][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039339s)
+[2017.08.23-13.25.12:771][677]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.08.23-13.25.12:771][677]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2017.08.23-13.25.12:772][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.040677s)
+[2017.08.23-13.25.12:795][677]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.23-13.25.12:806][677]LogInit: FAudioDevice initialized.
+[2017.08.23-13.25.12:837][677]LogLoad: Game class is 'MyBomberManGameMode_C'
+[2017.08.23-13.25.12:845][677]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.08.23-14.25.12
+[2017.08.23-13.25.12:846][677]LogWorld: Bringing up level for play took: 0.008223
+[2017.08.23-13.25.12:849][677]PIE: Info Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 1.34
+[2017.08.23-13.25.12:850][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.25.29:054][709]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_CustomEvent', from offset 2636
+[2017.08.23-13.25.29:054][709]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/ExplosionActor.ExplosionActor_C:BndEvt__DamageBoxCollider_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/Bombs/ExplosionActor.ExplosionActor_C:ExecuteUbergraph_ExplosionActor
+	Function /Game/Characters/DefaultPlayerCharacter.DefaultPlayerCharacter_C:TakeDamage
+	Function /Game/Characters/DefaultPlayerCharacter.DefaultPlayerCharacter_C:ExecuteUbergraph_DefaultPlayerCharacter
+
+[2017.08.23-13.25.55:166][709]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_CustomEvent', from offset 2636
+[2017.08.23-13.25.55:166][709]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Bombs/ExplosionActor.ExplosionActor_C:BndEvt__DamageBoxCollider_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/Bombs/ExplosionActor.ExplosionActor_C:ExecuteUbergraph_ExplosionActor
+	Function /Game/Characters/DefaultPlayerCharacter.DefaultPlayerCharacter_C:TakeDamage
+	Function /Game/Characters/DefaultPlayerCharacter.DefaultPlayerCharacter_C:ExecuteUbergraph_DefaultPlayerCharacter
+
+[2017.08.23-13.26.02:973][716]LogScript:Warning: Attempted to access DefaultPlayerCharacter_C_0 via property DroppedBy, but DefaultPlayerCharacter_C_0 is pending kill
+	DefaultBomb_C /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.DefaultBomb_C_1
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb:1217
+[2017.08.23-13.26.02:973][716]PIE:Error: Error Blueprint Runtime Error: Attempted to access DefaultPlayerCharacter_C_0 via property DroppedBy, but DefaultPlayerCharacter_C_0 is pending kill from function: 'ExecuteUbergraph_DefaultBomb' from node: Remove Item in graph: EventGraph in object: DefaultBomb with description: Attempted to access DefaultPlayerCharacter_C_0 via property DroppedBy, but DefaultPlayerCharacter_C_0 is pending kill
+[2017.08.23-13.26.02:973][716]LogScript:Warning: Accessed None
+	DefaultBomb_C /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.DefaultBomb_C_1
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb:11F8
+[2017.08.23-13.26.02:974][716]PIE:Error: Error Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_DefaultBomb' from node: Remove Item in graph: EventGraph in object: DefaultBomb with description: Accessed None
+[2017.08.23-13.26.05:145][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.26.05:182][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.26.06:090][ 64]LogTemp: Repeting last play command: Selected Viewport
+[2017.08.23-13.26.06:108][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.26.06:108][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.23-13.26.06:109][ 64]PIE: New page: PIE session: TopDownExampleMap (23 Aug 2017 15:26:06)
+[2017.08.23-13.26.06:109][ 64]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.08.23-13.26.06:144][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035012s)
+[2017.08.23-13.26.06:144][ 64]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.08.23-13.26.06:145][ 64]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2017.08.23-13.26.06:145][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.036277s)
+[2017.08.23-13.26.06:170][ 64]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.23-13.26.06:182][ 64]LogInit: FAudioDevice initialized.
+[2017.08.23-13.26.06:216][ 64]LogLoad: Game class is 'MyBomberManGameMode_C'
+[2017.08.23-13.26.06:224][ 64]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.08.23-14.26.06
+[2017.08.23-13.26.06:225][ 64]LogWorld: Bringing up level for play took: 0.008496
+[2017.08.23-13.26.06:229][ 64]PIE: Info Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.72
+[2017.08.23-13.26.06:229][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.26.18:652][815]LogScript:Warning: Attempted to access DefaultPlayerCharacter_C_0 via property DroppedBy, but DefaultPlayerCharacter_C_0 is pending kill
+	DefaultBomb_C /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.DefaultBomb_C_2
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb:1217
+[2017.08.23-13.26.18:653][815]PIE:Error: Error Blueprint Runtime Error: Attempted to access DefaultPlayerCharacter_C_0 via property DroppedBy, but DefaultPlayerCharacter_C_0 is pending kill from function: 'ExecuteUbergraph_DefaultBomb' from node: Remove Item in graph: EventGraph in object: DefaultBomb with description: Attempted to access DefaultPlayerCharacter_C_0 via property DroppedBy, but DefaultPlayerCharacter_C_0 is pending kill
+[2017.08.23-13.26.18:653][815]LogScript:Warning: Accessed None
+	DefaultBomb_C /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.DefaultBomb_C_2
+	Function /Game/Bombs/DefaultBomb.DefaultBomb_C:ExecuteUbergraph_DefaultBomb:11F8
+[2017.08.23-13.26.18:653][815]PIE:Error: Error Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_DefaultBomb' from node: Remove Item in graph: EventGraph in object: DefaultBomb with description: Accessed None
+[2017.08.23-13.26.19:861][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.26.19:901][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.08.23-13.26.39:064][ 60]LogSavePackage: Save=100.21ms
+[2017.08.23-13.26.39:064][ 60]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/DefaultPlayerCharacterC069B4E64E33F85E281BE2B9E8F68514.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset'
+[2017.08.23-13.26.39:067][ 60]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Characters/DefaultPlayerCharacter.uasset
+[2017.08.23-13.26.40:126][170]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.08.23-13.26.40:204][170]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.08.23-13.26.40:500][171]Cmd: QUIT_EDITOR
+[2017.08.23-13.26.41:281][171]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.08.23-13.26.41:322][171]LogExit: Preparing to exit.
+[2017.08.23-13.26.42:079][171]LogDirectoryWatcher: A directory notification for 'C:/Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/' was aborted.
+[2017.08.23-13.26.42:174][171]LogExit: Editor shut down
+[2017.08.23-13.26.42:200][171]LogExit: Transaction tracking system shut down
+[2017.08.23-13.26.42:379][171]LogObj: Freed 0b from 0 cluster array pools.
+[2017.08.23-13.26.42:380][171]LogExit: Object subsystem successfully closed.
+[2017.08.23-13.26.42:444][171]LogD3D11RHI: Shutdown
+[2017.08.23-13.26.42:444][171]LogD3D11RHI: CleanupD3DDevice
+[2017.08.23-13.26.42:616][171]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.08.23-13.26.42:641][171]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (534)
+[2017.08.23-13.26.42:642][171]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.08.23-13.26.42:642][171]LogModuleManager: Shutting down and abandoning module BlueprintGraph (530)
+[2017.08.23-13.26.42:642][171]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (528)
+[2017.08.23-13.26.42:643][171]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (526)
+[2017.08.23-13.26.42:643][171]LogModuleManager: Shutting down and abandoning module CrashTracker (524)
+[2017.08.23-13.26.42:643][171]LogModuleManager: Shutting down and abandoning module SceneOutliner (522)
+[2017.08.23-13.26.42:643][171]LogModuleManager: Shutting down and abandoning module AddContentDialog (520)
+[2017.08.23-13.26.42:644][171]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.16/FeaturePacks/' was aborted.
+[2017.08.23-13.26.42:648][171]LogModuleManager: Shutting down and abandoning module WidgetCarousel (519)
+[2017.08.23-13.26.42:648][171]LogModuleManager: Shutting down and abandoning module EditorWidgets (516)
+[2017.08.23-13.26.42:648][171]LogModuleManager: Shutting down and abandoning module CollectionManager (514)
+[2017.08.23-13.26.42:649][171]LogDirectoryWatcher: A directory notification for 'C:/Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Collections/' was aborted.
+[2017.08.23-13.26.42:649][171]LogDirectoryWatcher: A directory notification for 'C:/Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/Developers/Thomas/Collections/' was aborted.
+[2017.08.23-13.26.42:649][171]LogDirectoryWatcher: A directory notification for 'C:/Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Saved/Collections/' was aborted.
+[2017.08.23-13.26.42:649][171]LogModuleManager: Shutting down and abandoning module StatsViewer (512)
+[2017.08.23-13.26.42:649][171]LogModuleManager: Shutting down and abandoning module FoliageEdit (510)
+[2017.08.23-13.26.42:649][171]LogModuleManager: Shutting down and abandoning module LandscapeEditor (508)
+[2017.08.23-13.26.42:650][171]LogModuleManager: Shutting down and abandoning module MeshPaintMode (506)
+[2017.08.23-13.26.42:650][171]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (504)
+[2017.08.23-13.26.42:650][171]LogModuleManager: Shutting down and abandoning module ActorPickerMode (502)
+[2017.08.23-13.26.42:650][171]LogModuleManager: Shutting down and abandoning module GeometryMode (500)
+[2017.08.23-13.26.42:650][171]LogModuleManager: Shutting down and abandoning module TextureAlignMode (498)
+[2017.08.23-13.26.42:650][171]LogModuleManager: Shutting down and abandoning module BspMode (496)
+[2017.08.23-13.26.42:651][171]LogModuleManager: Shutting down and abandoning module HardwareSurvey (494)
+[2017.08.23-13.26.42:651][171]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (492)
+[2017.08.23-13.26.42:651][171]LogModuleManager: Shutting down and abandoning module AutomationWorker (490)
+[2017.08.23-13.26.42:651][171]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (488)
+[2017.08.23-13.26.42:652][171]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (486)
+[2017.08.23-13.26.42:653][171]LogModuleManager: Shutting down and abandoning module PlacementMode (485)
+[2017.08.23-13.26.42:653][171]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (482)
+[2017.08.23-13.26.42:653][171]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (480)
+[2017.08.23-13.26.42:653][171]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (478)
+[2017.08.23-13.26.42:654][171]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (476)
+[2017.08.23-13.26.42:654][171]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (474)
+[2017.08.23-13.26.42:654][171]LogModuleManager: Shutting down and abandoning module Media (473)
+[2017.08.23-13.26.42:654][171]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (470)
+[2017.08.23-13.26.42:654][171]LogModuleManager: Shutting down and abandoning module CharacterAI (468)
+[2017.08.23-13.26.42:654][171]LogModuleManager: Shutting down and abandoning module AudioCapture (466)
+[2017.08.23-13.26.42:654][171]LogModuleManager: Shutting down and abandoning module SequenceRecorder (465)
+[2017.08.23-13.26.42:655][171]LogModuleManager: Shutting down and abandoning module SmartSnapping (462)
+[2017.08.23-13.26.42:655][171]LogModuleManager: Shutting down and abandoning module SessionServices (460)
+[2017.08.23-13.26.42:655][171]LogModuleManager: Shutting down and abandoning module ViewportSnapping (458)
+[2017.08.23-13.26.42:655][171]LogModuleManager: Shutting down and abandoning module ViewportInteraction (456)
+[2017.08.23-13.26.42:655][171]LogModuleManager: Shutting down and abandoning module ClothPainter (454)
+[2017.08.23-13.26.42:656][171]LogModuleManager: Shutting down and abandoning module LogVisualizer (452)
+[2017.08.23-13.26.42:657][171]LogModuleManager: Shutting down and abandoning module IntroTutorials (450)
+[2017.08.23-13.26.42:658][171]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (449)
+[2017.08.23-13.26.42:658][171]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (446)
+[2017.08.23-13.26.42:658][171]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (444)
+[2017.08.23-13.26.42:658][171]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (442)
+[2017.08.23-13.26.42:658][171]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (440)
+[2017.08.23-13.26.42:659][171]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (439)
+[2017.08.23-13.26.43:194][171]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (436)
+[2017.08.23-13.26.43:194][171]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (434)
+[2017.08.23-13.26.43:194][171]LogModuleManager: Shutting down and abandoning module InputBindingEditor (432)
+[2017.08.23-13.26.43:195][171]LogModuleManager: Shutting down and abandoning module MergeActors (430)
+[2017.08.23-13.26.43:195][171]LogModuleManager: Shutting down and abandoning module SizeMap (428)
+[2017.08.23-13.26.43:195][171]LogModuleManager: Shutting down and abandoning module TreeMap (426)
+[2017.08.23-13.26.43:195][171]LogModuleManager: Shutting down and abandoning module ReferenceViewer (424)
+[2017.08.23-13.26.43:196][171]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (422)
+[2017.08.23-13.26.43:196][171]LogModuleManager: Shutting down and abandoning module LocalizationService (421)
+[2017.08.23-13.26.43:197][171]LogModuleManager: Shutting down and abandoning module HardwareTargeting (418)
+[2017.08.23-13.26.43:197][171]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (416)
+[2017.08.23-13.26.43:197][171]LogModuleManager: Shutting down and abandoning module UndoHistory (414)
+[2017.08.23-13.26.43:197][171]LogModuleManager: Shutting down and abandoning module UserFeedback (412)
+[2017.08.23-13.26.43:197][171]LogModuleManager: Shutting down and abandoning module XmlParser (410)
+[2017.08.23-13.26.43:198][171]LogModuleManager: Shutting down and abandoning module Blutility (408)
+[2017.08.23-13.26.43:198][171]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (406)
+[2017.08.23-13.26.43:198][171]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (405)
+[2017.08.23-13.26.43:198][171]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (402)
+[2017.08.23-13.26.43:198][171]LogModuleManager: Shutting down and abandoning module SettingsEditor (400)
+[2017.08.23-13.26.43:198][171]LogModuleManager: Shutting down and abandoning module ProjectLauncher (398)
+[2017.08.23-13.26.43:199][171]LogModuleManager: Shutting down and abandoning module SessionFrontend (396)
+[2017.08.23-13.26.43:200][171]LogModuleManager: Shutting down and abandoning module ProfilerClient (394)
+[2017.08.23-13.26.43:200][171]LogModuleManager: Shutting down and abandoning module DeviceManager (392)
+[2017.08.23-13.26.43:201][171]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (391)
+[2017.08.23-13.26.43:253][171]LogModuleManager: Shutting down and abandoning module AutomationController (388)
+[2017.08.23-13.26.43:253][171]LogModuleManager: Shutting down and abandoning module AutomationWindow (386)
+[2017.08.23-13.26.43:254][171]LogModuleManager: Shutting down and abandoning module Layers (384)
+[2017.08.23-13.26.43:255][171]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (382)
+[2017.08.23-13.26.43:255][171]LogModuleManager: Shutting down and abandoning module DetailCustomizations (380)
+[2017.08.23-13.26.43:256][171]LogModuleManager: Shutting down and abandoning module PackagesDialog (378)
+[2017.08.23-13.26.43:256][171]LogModuleManager: Shutting down and abandoning module Persona (376)
+[2017.08.23-13.26.43:257][171]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (375)
+[2017.08.23-13.26.43:257][171]LogModuleManager: Shutting down and abandoning module AnimGraph (373)
+[2017.08.23-13.26.43:257][171]LogModuleManager: Shutting down and abandoning module Kismet (370)
+[2017.08.23-13.26.43:272][171]LogModuleManager: Shutting down and abandoning module ClassViewer (368)
+[2017.08.23-13.26.43:273][171]LogModuleManager: Shutting down and abandoning module Toolbox (366)
+[2017.08.23-13.26.43:273][171]LogModuleManager: Shutting down and abandoning module ModuleUI (364)
+[2017.08.23-13.26.43:273][171]LogModuleManager: Shutting down and abandoning module MovieSceneTools (362)
+[2017.08.23-13.26.43:274][171]LogModuleManager: Shutting down and abandoning module OutputLog (360)
+[2017.08.23-13.26.43:275][171]LogModuleManager: Shutting down and abandoning module GammaUI (358)
+[2017.08.23-13.26.43:275][171]LogModuleManager: Shutting down and abandoning module Documentation (356)
+[2017.08.23-13.26.43:275][171]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (354)
+[2017.08.23-13.26.43:276][171]LogModuleManager: Shutting down and abandoning module MovieScene (352)
+[2017.08.23-13.26.43:276][171]LogModuleManager: Shutting down and abandoning module Niagara (350)
+[2017.08.23-13.26.43:276][171]LogModuleManager: Shutting down and abandoning module NiagaraEditor (349)
+[2017.08.23-13.26.43:278][171]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (346)
+[2017.08.23-13.26.43:278][171]LogModuleManager: Shutting down and abandoning module AnalyticsET (344)
+[2017.08.23-13.26.43:278][171]LogModuleManager: Shutting down and abandoning module PortalServices (342)
+[2017.08.23-13.26.43:278][171]LogModuleManager: Shutting down and abandoning module PortalRpc (340)
+[2017.08.23-13.26.43:278][171]LogModuleManager: Shutting down and abandoning module MessagingRpc (338)
+[2017.08.23-13.26.43:278][171]LogModuleManager: Shutting down and abandoning module AIModule (336)
+[2017.08.23-13.26.43:278][171]LogModuleManager: Shutting down and abandoning module GameplayDebugger (335)
+[2017.08.23-13.26.43:278][171]LogModuleManager: Shutting down and abandoning module AITestSuite (333)
+[2017.08.23-13.26.43:278][171]LogModuleManager: Shutting down and abandoning module ProfilerService (330)
+[2017.08.23-13.26.43:519][171]LogModuleManager: Shutting down and abandoning module TaskGraph (328)
+[2017.08.23-13.26.43:520][171]LogModuleManager: Shutting down and abandoning module SteamVRController (326)
+[2017.08.23-13.26.43:521][171]LogModuleManager: Shutting down and abandoning module SteamVR (324)
+[2017.08.23-13.26.43:521][171]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (322)
+[2017.08.23-13.26.43:521][171]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (320)
+[2017.08.23-13.26.43:521][171]LogModuleManager: Shutting down and abandoning module OculusLibrary (318)
+[2017.08.23-13.26.43:522][171]LogModuleManager: Shutting down and abandoning module OculusInput (316)
+[2017.08.23-13.26.43:522][171]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (314)
+[2017.08.23-13.26.43:522][171]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (312)
+[2017.08.23-13.26.43:522][171]LogModuleManager: Shutting down and abandoning module CableComponent (310)
+[2017.08.23-13.26.43:522][171]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (308)
+[2017.08.23-13.26.43:522][171]LogModuleManager: Shutting down and abandoning module AndroidPermission (306)
+[2017.08.23-13.26.43:522][171]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (302)
+[2017.08.23-13.26.43:524][171]LogModuleManager: Shutting down and abandoning module HTML5Networking (300)
+[2017.08.23-13.26.43:524][171]LogModuleManager: Shutting down and abandoning module AlembicImporter (298)
+[2017.08.23-13.26.43:525][171]LogModuleManager: Shutting down and abandoning module AlembicLibrary (297)
+[2017.08.23-13.26.43:525][171]LogModuleManager: Shutting down and abandoning module GeometryCache (296)
+[2017.08.23-13.26.43:525][171]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (295)
+[2017.08.23-13.26.43:525][171]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (290)
+[2017.08.23-13.26.43:526][171]LogModuleManager: Shutting down and abandoning module SuperSearch (289)
+[2017.08.23-13.26.43:526][171]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (286)
+[2017.08.23-13.26.43:526][171]LogModuleManager: Shutting down and abandoning module PluginBrowser (284)
+[2017.08.23-13.26.43:527][171]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (282)
+[2017.08.23-13.26.43:529][171]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (280)
+[2017.08.23-13.26.43:529][171]LogModuleManager: Shutting down and abandoning module DesktopPlatform (279)
+[2017.08.23-13.26.43:529][171]LogModuleManager: Shutting down and abandoning module UObjectPlugin (276)
+[2017.08.23-13.26.43:529][171]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (274)
+[2017.08.23-13.26.43:530][171]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (272)
+[2017.08.23-13.26.43:531][171]LogModuleManager: Shutting down and abandoning module GitSourceControl (270)
+[2017.08.23-13.26.43:531][171]LogModuleManager: Shutting down and abandoning module SourceControl (269)
+[2017.08.23-13.26.43:531][171]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (266)
+[2017.08.23-13.26.43:531][171]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (264)
+[2017.08.23-13.26.43:532][171]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (262)
+[2017.08.23-13.26.43:532][171]LogModuleManager: Shutting down and abandoning module Paper2DEditor (260)
+[2017.08.23-13.26.43:533][171]LogModuleManager: Shutting down and abandoning module MeshPaint (259)
+[2017.08.23-13.26.43:533][171]LogModuleManager: Shutting down and abandoning module LevelEditor (257)
+[2017.08.23-13.26.43:536][171]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (256)
+[2017.08.23-13.26.43:537][171]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2017.08.23-13.26.43:537][171]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2017.08.23-13.26.43:538][171]LogDirectoryWatcher: A directory notification for 'C:/Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Binaries/Win64' was aborted.
+[2017.08.23-13.26.43:539][171]LogModuleManager: Shutting down and abandoning module BomberMan (248)
+[2017.08.23-13.26.43:539][171]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (246)
+[2017.08.23-13.26.43:540][171]LogModuleManager: Shutting down and abandoning module PhysXVehicles (244)
+[2017.08.23-13.26.43:540][171]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (242)
+[2017.08.23-13.26.43:540][171]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (240)
+[2017.08.23-13.26.43:541][171]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (238)
+[2017.08.23-13.26.43:541][171]LogModuleManager: Shutting down and abandoning module UdpMessaging (236)
+[2017.08.23-13.26.43:642][171]LogModuleManager: Shutting down and abandoning module TcpMessaging (234)
+[2017.08.23-13.26.43:742][171]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (232)
+[2017.08.23-13.26.43:742][171]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (230)
+[2017.08.23-13.26.43:743][171]LogModuleManager: Shutting down and abandoning module FacialAnimation (228)
+[2017.08.23-13.26.43:743][171]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2017.08.23-13.26.43:744][171]LogModuleManager: Shutting down and abandoning module GraphEditor (225)
+[2017.08.23-13.26.43:745][171]LogModuleManager: Shutting down and abandoning module ContentBrowser (223)
+[2017.08.23-13.26.43:748][171]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (220)
+[2017.08.23-13.26.43:748][171]LogModuleManager: Shutting down and abandoning module Paper2D (218)
+[2017.08.23-13.26.43:748][171]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2017.08.23-13.26.43:749][171]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2017.08.23-13.26.43:749][171]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (212)
+[2017.08.23-13.26.43:749][171]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (210)
+[2017.08.23-13.26.43:750][171]LogModuleManager: Shutting down and abandoning module MediaAssets (208)
+[2017.08.23-13.26.43:750][171]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (206)
+[2017.08.23-13.26.43:750][171]LogModuleManager: Shutting down and abandoning module VREditor (204)
+[2017.08.23-13.26.43:751][171]LogModuleManager: Shutting down and abandoning module StringTableEditor (202)
+[2017.08.23-13.26.43:751][171]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (200)
+[2017.08.23-13.26.43:752][171]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (198)
+[2017.08.23-13.26.43:753][171]LogModuleManager: Shutting down and abandoning module FunctionalTesting (196)
+[2017.08.23-13.26.43:753][171]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (194)
+[2017.08.23-13.26.43:754][171]LogModuleManager: Shutting down and abandoning module UMG (192)
+[2017.08.23-13.26.43:755][171]LogModuleManager: Shutting down and abandoning module UMGEditor (191)
+[2017.08.23-13.26.43:756][171]LogModuleManager: Shutting down and abandoning module Sequencer (190)
+[2017.08.23-13.26.43:757][171]LogModuleManager: Shutting down and abandoning module AssetTools (188)
+[2017.08.23-13.26.43:760][171]LogModuleManager: Shutting down and abandoning module MessageLog (187)
+[2017.08.23-13.26.43:760][171]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (186)
+[2017.08.23-13.26.43:760][171]LogModuleManager: Shutting down and abandoning module SlateReflector (180)
+[2017.08.23-13.26.43:762][171]LogModuleManager: Shutting down and abandoning module Slate (178)
+[2017.08.23-13.26.43:762][171]LogModuleManager: Shutting down and abandoning module EditorStyle (176)
+[2017.08.23-13.26.43:767][171]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (174)
+[2017.08.23-13.26.43:767][171]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (172)
+[2017.08.23-13.26.43:767][171]LogModuleManager: Shutting down and abandoning module XAudio2 (170)
+[2017.08.23-13.26.43:767][171]LogModuleManager: Shutting down and abandoning module Networking (168)
+[2017.08.23-13.26.43:768][171]LogModuleManager: Shutting down and abandoning module Core (164)
+[2017.08.23-13.26.43:768][171]LogModuleManager: Shutting down and abandoning module AssetRegistry (162)
+[2017.08.23-13.26.43:940][171]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.08.23-13.26.43:940][171]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Thomas/Documents/GitHub/Bomber-Man-Programming-Test/BomberMan/Content/' was aborted.
+[2017.08.23-13.26.43:940][171]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.08.23-13.26.43:940][171]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/GearVR/Content/' was aborted.
+[2017.08.23-13.26.43:945][171]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2017.08.23-13.26.43:949][171]LogModuleManager: Shutting down and abandoning module KismetCompiler (158)
+[2017.08.23-13.26.43:949][171]LogModuleManager: Shutting down and abandoning module LevelSequence (156)
+[2017.08.23-13.26.43:949][171]LogModuleManager: Shutting down and abandoning module PhysXFormats (154)
+[2017.08.23-13.26.43:949][171]LogModuleManager: Shutting down and abandoning module MeshUtilities (152)
+[2017.08.23-13.26.43:951][171]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (151)
+[2017.08.23-13.26.43:951][171]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (149)
+[2017.08.23-13.26.43:951][171]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (147)
+[2017.08.23-13.26.43:951][171]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.08.23-13.26.44:021][171]LogDerivedDataCache: Shutdown
+[2017.08.23-13.26.44:021][171]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.08.23-13.26.44:021][171]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.08.23-13.26.44:023][171]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.08.23-13.26.44:024][171]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.08.23-13.26.44:025][171]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.08.23-13.26.44:025][171]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.08.23-13.26.44:027][171]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.08.23-13.26.44:027][171]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.08.23-13.26.44:027][171]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.08.23-13.26.44:028][171]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.08.23-13.26.44:032][171]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.08.23-13.26.44:032][171]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.08.23-13.26.44:032][171]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.08.23-13.26.44:033][171]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.08.23-13.26.44:033][171]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.08.23-13.26.44:034][171]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.08.23-13.26.44:034][171]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.08.23-13.26.44:034][171]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.08.23-13.26.44:034][171]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.08.23-13.26.44:035][171]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.08.23-13.26.44:035][171]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.08.23-13.26.44:035][171]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.08.23-13.26.44:036][171]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.08.23-13.26.44:036][171]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.08.23-13.26.44:036][171]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.08.23-13.26.44:037][171]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.08.23-13.26.44:037][171]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.08.23-13.26.44:038][171]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.08.23-13.26.44:038][171]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.08.23-13.26.44:039][171]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.08.23-13.26.44:039][171]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.08.23-13.26.44:040][171]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.08.23-13.26.44:040][171]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.08.23-13.26.44:041][171]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.08.23-13.26.44:041][171]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.08.23-13.26.44:041][171]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.08.23-13.26.44:042][171]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.08.23-13.26.44:042][171]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.08.23-13.26.44:042][171]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.08.23-13.26.44:043][171]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.08.23-13.26.44:043][171]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.08.23-13.26.44:043][171]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.08.23-13.26.44:044][171]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.08.23-13.26.44:044][171]LogModuleManager: Shutting down and abandoning module OculusRift (56)
+[2017.08.23-13.26.44:045][171]LogModuleManager: Shutting down and abandoning module GearVRController (54)
+[2017.08.23-13.26.44:045][171]LogModuleManager: Shutting down and abandoning module GearVR (52)
+[2017.08.23-13.26.44:046][171]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.08.23-13.26.44:046][171]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.08.23-13.26.44:046][171]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.08.23-13.26.44:046][171]LogOnline:Display: Unloading online subsystem: NULL
+[2017.08.23-13.26.44:048][171]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.08.23-13.26.44:049][171]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.08.23-13.26.44:049][171]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.08.23-13.26.44:050][171]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9C7E19F8-4141-55F1-CCC0-42A5E4C5D6E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.3-3561208%2B%2B%2BUE4%2BRelease-4.16&UserID=064daca24373698ecce02cb29cfe675b%7C0710eb5124274cd292d52e750e3e8cd0%7C73c0daa0-9b6e-4968-9cfa-eedfc24ed9dd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.08.23-13.26.44:068][171]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.08.23-13.26.44:073][171]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (36)
+[2017.08.23-13.26.44:074][171]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2017.08.23-13.26.44:075][171]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2017.08.23-13.26.44:076][171]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2017.08.23-13.26.44:077][171]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2017.08.23-13.26.44:079][171]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2017.08.23-13.26.44:079][171]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2017.08.23-13.26.44:079][171]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2017.08.23-13.26.44:089][171]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2017.08.23-13.26.44:090][171]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2017.08.23-13.26.44:090][171]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2017.08.23-13.26.44:091][171]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2017.08.23-13.26.44:091][171]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2017.08.23-13.26.44:091][171]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2017.08.23-13.26.44:091][171]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2017.08.23-13.26.44:091][171]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.08.23-13.26.44:091][171]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.08.23-13.26.44:091][171]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.08.23-13.26.44:101][171]LogExit: Exiting.
+[2017.08.23-13.26.44:139][171]Log file closed, 08/23/17 14:26:44
